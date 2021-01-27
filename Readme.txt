@@ -1,10 +1,10 @@
 -------------------------------
 --- Postman CMS Version 2.0 ---
 -------------------------------
-#Postman is a easy to use, powerful and fast content management system. Postman privides beautiful themes with theme color options for the website. With Postman, get powerful customizable admin panel which provides realtime data on the dashboard. Easily connect social media with your Postman website and access many other powerful features.
+#Postman is an easy to use content management system. Postman privides beautiful themes with theme color options for the website. With Postman, get customizable admin panel which provides realtime data on the dashboard. Easily connect social media with your Postman website and access many other powerful features.
 
 
-------- Updates -------
+------- Updates in V.2 -------
 => Bug Fixes & Improvements.
 => Dynamic Themes.
 => Theme Wise additional CSS option.
@@ -27,11 +27,11 @@
 
 ---- Installation ----
 
-=> Download and Paste the entire directory contents in your projects folder (under htdocs folder in xampp server and under www folder in wamp server)
+=> Download and Paste the entire directory contents in your root folder.
 
 => You can rename the project directory as per your requirement
 
-=> Now you can run the project in your browser and start the initial setup process which creates database and the user account
+=> Now you can run the project in your browser and start the initial setup process which creates all the database tables and the user account.
 
 => Ones the project setup is completed, you are all set to visit your Postman website and access the admin panel.
 
