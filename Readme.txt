@@ -9,9 +9,10 @@
 => Dynamic Themes.
 => Theme Wise additional CSS option.
 => Website customization options moved to Appearance menu in the Admin Panel.
-=> Disable Comments through Post Detail page.
-=> Close New Comments option.
-=> Search Posts and Enquiry using the same search section in admin's sidebar.
+=> Post Wise Disable Comments Option.
+=> Post Wise Close New Comments option.
+=> Search for Post and Enquiries using the same search section in admin's sidebar.
+
 
 
 ---- Technologies Used ----
